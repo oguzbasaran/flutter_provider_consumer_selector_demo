@@ -4,9 +4,11 @@ This Flutter application showcases the implementation and advantages of using Pr
 
 ## Features
 
-- Advanced utilization of the Provider package
-- Efficient state management using Consumer and Selector
-- Cross-platform compatibility: iOS, Android, Web, macOS, and Windows
+- Add a new user with a username from a TextField.
+- Toggle user activation status with a switch button.
+- Selectively rebuild widgets using Selector.
+- Use of ChangeNotifierProvider for state management.
+- Use of Consumer and Selector to listen and respond to changes.
 
 ## Getting Started
 
